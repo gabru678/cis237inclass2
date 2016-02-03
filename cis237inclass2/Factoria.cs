@@ -12,7 +12,7 @@ namespace cis237inclass2
         public Factoria()
         {
             //Prompt the user for a number to compute
-            Console.WriteLine("Inut anumber to calculate the factorial of: \n");
+            Console.WriteLine("Input a number to calculate the factorial of: \n");
 
             try
             {
